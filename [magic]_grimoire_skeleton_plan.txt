@@ -1,0 +1,100 @@
+The Grimoire of salt and blood, noise and bone 
+[WIP SKELETON]
+	Table of Contents (overview)
+•	Dedications
+		Hegel
+		Marx
+		Camus
+		Julio Cortazar
+		Jose Carlos Mariategui
+		Howard Zinn
+		Rafael Sebastián Guillén Vicente
+		Emiliano Zapata
+•	Philosophy (point of view)
+		Semi-Materialist
+		Secular
+		Social
+		Human Essence
+•	Desires
+		To create
+		To organize / structure 
+		To have an imprint, no matter how small, on history
+•	Vices
+		Apathy
+		Laziness
+		Moodiness
+•	Goals
+		History Professor
+		Musician
+		Writer
+		Brewer
+•	Rituals
+		Drinking
+		•	Tea
+		•	Coffee
+		•	Wine
+		Drugs
+		•	Psychedelics
+		•	Cannabis
+		•	Alcohol
+		Creating
+		•	Writing
+		•	Brewing
+		•	Music
+		Collecting
+		•	Organizing
+•	Theses
+		Archetypes
+		Aesthetics
+		Materials
+		•	Dice	
+		•	Cards
+			•	Personal cards
+		•	Drugs
+			•	Cannabis
+			•	Acid
+			•	Mushrooms
+			•	MDMA
+			•	Alcohol
+			•	Caffeine
+		•	Paper
+		•	Stone
+		•	Clay
+		•	Wood
+		•	Glass
+		•	Herbs & Plants
+			•	Cinnamon:  love, happiness, money, prosperity, healing.
+			•	Chamomile:  peace, sleep, rest, purification, meditation.
+			•	Mint:   healing, strength, power, luck, travel.
+			•	Rosemary:  fidelity, cleansing, memory, dreaming, attraction, love.
+			•	Cloves:  good luck, prosperity, friendship, stop gossip, pain.
+			•	Lavender:  sleep, peace, long life, wishes, purification, visions.
+			•	Oregano:  peace, air, health, joy
+			•	Tea: knowledge, health, rest, intelligence
+			•	Coffee: energy, focus, protection, awareness	
+			•	Hibiscus: love, lust, dreams, divination, health/vitality
+			•	Blueberry: health, good timing, peak point, authority
+			•	Pomegranate: Immortality, femininity, fertility, beyond-life
+		Containers
+		•	Glass mason jars
+		•	Basket
+		•	Box
+		•	Coffee can
+		•	Backpack
+		Methods & Rituals
+		•	Cartomancy
+		•	Capnomancy
+		•	Chartomancy
+		•	Tasseomancy
+		Themes & Associated Elements (key words)
+		•	Salt: high judge; jinn; mystic contracts;
+		•	Blood: master seer; motion; function reformation
+		•	Noise: mystic bard; clairvoyance; rhythmic divination; astrology
+		•	Bone: corpus sage; scrying; archetype divination; 
+		•	Ash: divine enchanter; transformation; mystic transfer
+		Spells – “Processes”
+		•	heal_theMind_spell(); // cleaning
+		•	delete_stressAlsoAnxiety(); // organize tasks & objects
+		•	add_eternalSong(); // playing music
+		•	run_contentPresentA1(); // smoking
+	
